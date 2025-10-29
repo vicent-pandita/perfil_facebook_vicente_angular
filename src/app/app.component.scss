@@ -1,0 +1,4 @@
+/* app.component.scss */
+.container { max-width: 1100px; margin: 0 auto; padding: 16px; }
+.main-grid { display: grid; grid-template-columns: 260px 1fr; gap: 16px; align-items:start; }
+.content-area { min-height: 60vh; }
